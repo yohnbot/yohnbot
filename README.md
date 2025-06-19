@@ -1,4 +1,4 @@
-![github-user-contribution](https://github.com/user-attachments/assets/82c8e6fa-0fcc-41b9-8ae5-b25feb36cbdc)<h1 align="center">Hi 👋, I'm John Aquino</h1>
+Hi 👋, I'm John Aquino</h1>
 <h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohnbot&label=Profile%20views&color=0e75b6&style=flat" alt="yohnbot" /> </p>
@@ -13,3 +13,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohnbot&show_icons=true&locale=en&layout=compact" alt="yohnbot" /></p>
 
+![github-user-contribution](https://github.com/user-attachments/assets/82c8e6fa-0fcc-41b9-8ae5-b25feb36cbdc)<h1 align="center">
