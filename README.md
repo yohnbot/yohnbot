@@ -13,4 +13,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohnbot&show_icons=true&locale=en&layout=compact" alt="yohnbot" /></p>
 
+###
+
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/yohnbot/yohnbot/output/snake.svg" alt="Snake animation" />
+
+###
