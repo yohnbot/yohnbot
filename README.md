@@ -6,6 +6,9 @@ Hi 👋, I'm John Aquino</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/johnkda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkda16" height="20" width="30" /></a>
+<a href="mailto:aquinojohn007@gmail.com">
+  <img src="https://github.com/user-attachments/assets/5cea87bf-6adc-4f1f-af21-bc9dc5c385d6" width="20" height="30" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
