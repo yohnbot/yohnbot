@@ -14,7 +14,7 @@
 </div>
 
 <h5>
-## Languages:
+Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -26,7 +26,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohnbot&show_icons=true&locale=en&layout=compact" alt="yohnbot" /></p>
 </h5>
 
-## 🧰 Tools & Frameworks
+<h6>
+🧰 Tools & Frameworks
+</h6>
+
 
 
 ![github-user-contribution](https://github.com/user-attachments/assets/82c8e6fa-0fcc-41b9-8ae5-b25feb36cbdc)<h1 align="center">
