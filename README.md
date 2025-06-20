@@ -14,7 +14,6 @@
 </div>
 
 ## Languages:
-
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -23,10 +22,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohnbot&show_icons=true&locale=en&layout=compact" alt="yohnbot" /></p>
 
 ## 🧰 Tools & Frameworks
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohnbot&show_icons=true&locale=en&layout=compact" alt="yohnbot" /></p>
 
 ![github-user-contribution](https://github.com/user-attachments/assets/82c8e6fa-0fcc-41b9-8ae5-b25feb36cbdc)<h1 align="center">
