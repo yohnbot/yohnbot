@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<h6 align="left">🧰 Tools & Frameworks:</h6>
+<h5 align="left">🧰 Tools & Frameworks:</h5>
 
 <p align="left">
   <!-- Frontend Development -->
