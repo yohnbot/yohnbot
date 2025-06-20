@@ -11,7 +11,7 @@
     <img src="https://github.com/user-attachments/assets/254e42ae-5d52-49f4-81fc-2239f5672eed" width="30" height="20" />
   </a>
   <a href="https://linkedin.com/in/johnkda" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkda16" width="30" height="20" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkda16" width="24" />
   </a>
   <a href="mailto:aquinojohn007@gmail.com">
     <img src="https://github.com/user-attachments/assets/5cea87bf-6adc-4f1f-af21-bc9dc5c385d6" width="24" />
