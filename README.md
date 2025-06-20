@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yohnbot&label=Profile%20views&color=0e75b6&style=flat" alt="yohnbot" />
 </p>
 
-<h4 align="left">Connect with me</h4>
+<h4 align="left">Contact me</h4>
   <a href="mailto:aquinojohn007@gmail.com">
     <img src="https://github.com/user-attachments/assets/5cea87bf-6adc-4f1f-af21-bc9dc5c385d6" width="24" />
   </a>
