@@ -7,6 +7,9 @@
 
 <h4 align="left">Connect with me</h4>
 <div style="display: flex; align-items: center; justify-content: flex-start; gap: 10px;">
+  <a href="https://johnkda.vercel.app/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="20" />
+  </a>
   <a href="https://linkedin.com/in/johnkda" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkda16" width="30" height="20" />
   </a>
