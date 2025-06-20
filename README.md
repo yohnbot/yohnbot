@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohnbot&label=Profile%20views&color=0e75b6&style=flat" alt="yohnbot" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <div style="display: flex; align-items: center; justify-content: flex-start; gap: 10px;">
   <a href="https://linkedin.com/in/johnkda" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnkda16" width="30" height="20" />
@@ -13,6 +13,7 @@
   </a>
 </div>
 
+<h5>
 ## Languages:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -23,6 +24,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohnbot&show_icons=true&locale=en&layout=compact" alt="yohnbot" /></p>
+</h5>
 
 ## 🧰 Tools & Frameworks
 
