@@ -15,8 +15,6 @@
   </a>
 </div>
 
-<br/>
-
 <h4 align="left">Languages:</h4>
 <div align="left">
   <p>
