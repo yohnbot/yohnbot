@@ -16,6 +16,9 @@
     <a href="mailto:aquinojohn007@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+    <a href="https://www.linkedin.com/in/johnkda" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <h5 align="left">Languages</h5>
