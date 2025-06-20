@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h4 align="left">Languages</h4>
+<h5 align="left">Languages</h5>
 <div align="left">
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<h4 align="left">🧰 Tools & Frameworks:</h4>
+<h6 align="left">🧰 Tools & Frameworks:</h6>
 
 <p align="left">
   <!-- Frontend Development -->
