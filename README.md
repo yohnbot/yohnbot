@@ -90,5 +90,5 @@
 </p>
 
 <div align="center">
-![snake gif](https://github.com/yohnbot/yohnbot/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/yohnbot/yohnbot/blob/output/github-snake-dark.svg)
 </div>
