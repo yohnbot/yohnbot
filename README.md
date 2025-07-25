@@ -1,4 +1,4 @@
-SSSSSSSSSSSSS<h1 align="left">John Aquino</h1>
+<h1 align="left">John Aquino</h1>
 <h3 align="left">Software Engineer</h3>
 
 <p align="left">
