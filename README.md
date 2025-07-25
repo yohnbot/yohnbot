@@ -1,4 +1,4 @@
-<h1 align="left">John Aquino</h1>
+SSSSSSSSSSSSS<h1 align="left">John Aquino</h1>
 <h3 align="left">Software Engineer</h3>
 
 <p align="left">
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-<h5 align="left">🧰 Tools & Frameworks</h5>
+<h5 align="left">🧰 Tools & Technologies</h5>
 
 <p align="left">
   <!-- Frontend Development -->
