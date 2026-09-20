@@ -1,8 +1,10 @@
 # John Aquino
+
 **Software Engineer**
 [Portfolio](https://johnkda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/johnkda/) · [GitHub](https://github.com/yohnbot)
 ---
 ## Projects
+
 ### [MealPlan](https://github.com/yohnbot/mealplan)
 Meal planning and pantry management web app.
 `Next.js` `React` `TypeScript` `Tailwind` `Supabase`
