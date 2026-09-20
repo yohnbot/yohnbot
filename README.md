@@ -6,9 +6,7 @@ Hi! I'm John. I'm a Software Engineering graduate building web applications, AI 
 
 [Portfolio](https://johnkda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/johnkda/) · [GitHub](https://github.com/yohnbot)
 
----
-
-## Tech
+### Tech Stack
 
 **Languages**
 
