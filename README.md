@@ -1,7 +1,7 @@
 # John Aquino
-
+---
 ## Software Engineer
-
+---
 Hi! I'm John. I'm a Software Engineering graduate building web applications, AI projects and other software projects. I enjoy learning new technologies, solving problems and turning ideas into working software.
 
 [Portfolio](https://johnkda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/johnkda/) · [GitHub](https://github.com/yohnbot)
