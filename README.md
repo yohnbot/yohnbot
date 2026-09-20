@@ -1,23 +1,74 @@
-<div align="center">
-John Aquino
+# John Aquino
 
-Software Engineer — building for web, mobile, and everything in between.
+**Software Engineer | BSc Software Engineering for Business**
 
-LinkedIn · YouTube · Instagram · Email
+I build web applications, software projects and AI-powered tools.
 
-</div> <br/>
-Stack
+Currently working with **TypeScript, React, Python and Next.js**.
 
-Languages — Java, TypeScript, JavaScript, Python
+[Portfolio](https://johnkda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/johnkda/) · [GitHub](https://github.com/yohnbot)
 
-Frontend — React, Next.js, React Native, Tailwind CSS, HTML/CSS
+---
 
-Backend — Node.js, .NET, Flask
+## Projects
 
-Data — MongoDB, MySQL, Oracle
+### [MealPlan](https://github.com/yohnbot/mealplan)
 
-Tooling — Docker, Git, Linux, Postman, Figma
+Meal planning and pantry management web app.
 
-<br/>
-GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yohnbot&show_icons=true&hide_border=true&theme=default" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohnbot&layout=compact&hide_border=true&langs_count=6" height="165"/> </div> <br/> <div align="center"> <sub><img src="https://komarev.com/ghpvc/?username=yohnbot&style=flat&color=blue" height="18"/></sub> </div> <div align="center"> <img src="https://github.com/yohnbot/yohnbot/blob/output/github-snake-dark.svg" width="600"/> </div>
+`Next.js` `React` `TypeScript` `Tailwind` `Supabase`
+
+### [RenAI](https://github.com/yohnbot/ren_ai)
+
+AI VTuber built with Python, Flask and Twitch integration.
+
+`Python` `Flask` `AI` `Twitch` `TTS`
+
+### Watchman
+
+Phishing detection application developed for a university client project.
+
+`Python` `Flask` `Cybersecurity` `APIs`
+
+### [Portfolio](https://github.com/yohnbot/portfolio)
+
+Personal developer portfolio.
+
+`React` `TypeScript` `Vite` `Tailwind`
+
+---
+
+## Tech
+
+**Languages**
+
+`TypeScript` `JavaScript` `Python` `Java` `PHP` `SQL` `Bash`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS` `Tailwind` `Bootstrap`
+
+**Backend**
+
+`Node.js` `Flask`
+
+**Tools**
+
+`Git` `Linux` `Docker` `Postman` `Figma`
+
+**Databases**
+
+`Supabase` `MySQL` `MongoDB`
+
+---
+
+## Education
+
+**BSc Software Engineering for Business — UWE Bristol**  
+2022–2025 · **2:1**
+
+---
+
+<p align="center">
+  <img src="https://github.com/yohnbot/yohnbot/blob/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
+</p>
